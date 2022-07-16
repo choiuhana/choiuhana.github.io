@@ -1,8 +1,10 @@
 ---
-date: '2020-07-29'
+date: '2020-07-14'
 title: 'Test'
-categories: ['Web', 'SEO', 'Optimization']
-summary: '홈페이지를 운영하는 많은 사람들 또는 기업들이 검색 페이지 최상단에 보여지게 하기 위해 어떤 최적화 작업을 하는지 알아보자.'
+
+[//]: # (categories ->  tags 로 변경, 실제 categories 는 프로젝트 단위로 모아주는걸로 변경)
+categories: ['Web', 'React', 'Gatsby']
+summary: '인프런 강의를 통해 만든 블로그 리패톡링.'
 thumbnail: './test.png'
 ---
 

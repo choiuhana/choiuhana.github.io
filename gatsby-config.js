@@ -1,7 +1,7 @@
 module.exports = {
     siteMetadata: {
-        title: `주니어 개발자의 개발 블로그`,
-        description: `주니어 개발자로서의 저를 표현한 블로그입니다.`,
+        title: `React Native 프론트앤드 개발자 최창원 입니다.`,
+        description: `개발자 최창원의 개인 블로그 입니다.`,
         author: `choiuhana`,
         siteUrl: 'https://choiuhana.github.io/',
     },
