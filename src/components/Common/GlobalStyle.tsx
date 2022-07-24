@@ -1,5 +1,6 @@
-import React, { FunctionComponent } from 'react';
-import { Global, css } from '@emotion/react';
+import React, {FunctionComponent} from 'react';
+import {Global, css} from '@emotion/react';
+import '@fontsource/gothic-a1'; // Defaults to weight 400 with all styles included.
 
 const defaultStyle = css`
     @import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700;800&display=swap');
@@ -8,7 +9,7 @@ const defaultStyle = css`
         padding: 0;
         margin: 0;
         box-sizing: border-box;
-        font-family: 'Nanum Myeongjo', serif;
+        font-family: 'Gothic A1', serif;
     }
 
     html,
